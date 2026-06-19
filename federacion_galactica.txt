@@ -1,0 +1,33 @@
+2026-06-19 21:17:14 D008 comienza su actividad como delegado comercial.
+2026-06-19 21:17:14 D003 comienza su actividad como delegado comercial.
+2026-06-19 21:17:14 D009 comienza su actividad como delegado comercial.
+2026-06-19 21:17:14 D005 comienza su actividad como delegado comercial.
+2026-06-19 21:17:14 D005 finaliza su actividad.
+2026-06-19 21:17:14 D007 comienza su actividad como delegado comercial.
+2026-06-19 21:17:14 D007 finaliza su actividad.
+2026-06-19 21:17:14 D002 comienza su actividad como delegado comercial.
+2026-06-19 21:17:14 D002 finaliza su actividad.
+2026-06-19 21:17:14 GeneradorDelegados: 10 delegados iniciales creados.
+2026-06-19 21:17:14 D001 comienza su actividad como delegado comercial.
+2026-06-19 21:17:14 D001 finaliza su actividad.
+2026-06-19 21:17:14 D010 comienza su actividad como delegado comercial.
+2026-06-19 21:17:14 D004 comienza su actividad como delegado comercial.
+2026-06-19 21:17:14 D004 finaliza su actividad.
+2026-06-19 21:17:14 P001 comienza su actividad como patrulla federal.
+2026-06-19 21:17:14 D006 comienza su actividad como delegado comercial.
+2026-06-19 21:17:14 D006 finaliza su actividad.
+2026-06-19 21:17:14 GeneradorPatrullas: 2 patrullas iniciales creadas.
+2026-06-19 21:17:14 P002 comienza su actividad como patrulla federal.
+2026-06-19 21:17:14 P002 prepara sus sistemas en el Hangar de Patrullas.
+2026-06-19 21:17:14 D008 finaliza su actividad.
+2026-06-19 21:17:14 D003 finaliza su actividad.
+2026-06-19 21:17:14 D009 finaliza su actividad.
+2026-06-19 21:17:14 D010 finaliza su actividad.
+2026-06-19 21:17:14 P001 prepara sus sistemas en el Hangar de Patrullas.
+2026-06-19 21:17:14 [Main] Simulación iniciada.
+2026-06-19 21:17:19 P002 finaliza su actividad.
+2026-06-19 21:17:20 P001 finaliza su actividad.
+2026-06-19 21:17:24 [GUI] Simulación pausada por el usuario.
+2026-06-19 21:17:37 [GUI] Simulación reanudada por el usuario.
+2026-06-19 21:19:41 [GUI] Simulación pausada por el usuario.
+2026-06-19 21:19:46 [GUI] Simulación reanudada por el usuario.
