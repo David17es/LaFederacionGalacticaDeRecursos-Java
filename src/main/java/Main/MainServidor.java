@@ -32,20 +32,24 @@ public class MainServidor {
             VentanaPrincipalServidor ventana = new VentanaPrincipalServidor(control, sincRecursos, logger);
             
             logger.setVentana(ventana); //enlace GUI-logger
-
             ventana.setVisible(true);
+            
+            control.iniciar();
+            
+            logger.registrarEvento("[Main] Simulación iniciada.");
+            
+            // 6. Generadores de actores
+            GeneradorDelegados generadorDel = new GeneradorDelegados(sincZonas, sincRecursos, control, logger);
+
+            GeneradorPatrullas generadorPat = new GeneradorPatrullas(sincZonas, sincSaq, control, logger);
+
+            GeneradorSaqueadores generadorSaq = new GeneradorSaqueadores(sincZonas, sincRecursos, sincSaq, control, logger);
+
+            generadorDel.start();
+            generadorPat.start();
+            generadorSaq.start();
+            
             logger.registrarEvento("[Main] Simulación iniciada.");
         });
-
-        // 6. Generadores de actores
-        GeneradorDelegados generadorDel = new GeneradorDelegados(sincZonas, sincRecursos, control, logger);
-
-        GeneradorPatrullas generadorPat = new GeneradorPatrullas(sincZonas, sincSaq, control, logger);
-
-        GeneradorSaqueadores generadorSaq = new GeneradorSaqueadores(sincZonas, sincRecursos, sincSaq, control, logger);
-
-        generadorDel.start();
-        generadorPat.start();
-        generadorSaq.start();
     }
 }

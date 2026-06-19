@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
+import javax.swing.SwingUtilities;
 
 /**
  * Implementacion thread-safe del logger, protegido por ReentrantLock explicito
@@ -30,11 +31,17 @@ public class LoggerFederacionImpl implements LoggerFederacion {
     @Override
     public void registrarEvento(String descripcion) {
         EventoLog evento = new EventoLog(descripcion);
+        String lineaFormateada = evento.getLineaFormateada();
         lock.lock();
         try {
             escribirEnFichero(evento.getLineaFormateada());
         } finally {
             lock.unlock();
+        }
+        
+        
+        if (ventana != null) {
+        SwingUtilities.invokeLater(() -> ventana.agregarLineaLog(lineaFormateada));
         }
     }
 
