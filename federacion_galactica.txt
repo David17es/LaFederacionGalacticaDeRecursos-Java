@@ -14415,3 +14415,571 @@
 2026-06-19 23:08:47 D014 viaja al Depósito de Plasma con 14 u. de PLASMA.
 2026-06-19 23:08:48 S009 abandona la galaxia.
 2026-06-19 23:08:48 S015 se dirige a atacar Depósito de Cristal.
+2026-06-19 23:49:35 [Main] Simulación iniciada.
+2026-06-19 23:49:35 [Main] Simulación iniciada.
+2026-06-19 23:49:35 GeneradorPatrullas: 2 patrullas iniciales creadas.
+2026-06-19 23:49:35 D002 comienza su actividad como delegado comercial.
+2026-06-19 23:49:35 D001 comienza su actividad como delegado comercial.
+2026-06-19 23:49:35 D001 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:35 P001 comienza su actividad como patrulla federal.
+2026-06-19 23:49:35 D004 comienza su actividad como delegado comercial.
+2026-06-19 23:49:35 D005 comienza su actividad como delegado comercial.
+2026-06-19 23:49:35 D003 comienza su actividad como delegado comercial.
+2026-06-19 23:49:35 D006 comienza su actividad como delegado comercial.
+2026-06-19 23:49:35 D007 comienza su actividad como delegado comercial.
+2026-06-19 23:49:35 D008 comienza su actividad como delegado comercial.
+2026-06-19 23:49:35 P002 comienza su actividad como patrulla federal.
+2026-06-19 23:49:35 D002 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:35 GeneradorDelegados: 10 delegados iniciales creados.
+2026-06-19 23:49:35 D009 comienza su actividad como delegado comercial.
+2026-06-19 23:49:35 D009 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:35 D010 comienza su actividad como delegado comercial.
+2026-06-19 23:49:35 P001 prepara sus sistemas en el Hangar de Patrullas.
+2026-06-19 23:49:35 D004 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:35 D005 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:35 D003 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:35 D006 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:35 D007 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:35 D008 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:35 P002 prepara sus sistemas en el Hangar de Patrullas.
+2026-06-19 23:49:35 D010 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:37 D004 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:49:37 D002 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:49:38 D009 viaja al planeta Ferrum a extraer MINERAL.
+2026-06-19 23:49:38 D010 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:49:38 D007 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:49:38 D006 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:49:39 D008 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:49:39 D003 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:49:39 D001 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:49:39 D005 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:49:40 P001 se dirige a patrullar Cryon.
+2026-06-19 23:49:40 P002 se dirige a patrullar Velora.
+2026-06-19 23:49:41 D004 ha extraído 13 u. de CRISTAL en Velora.
+2026-06-19 23:49:41 D004 viaja al Depósito de Cristal con 13 u. de CRISTAL.
+2026-06-19 23:49:42 D006 ha extraído 15 u. de PLASMA en Ignis.
+2026-06-19 23:49:42 D006 viaja al Depósito de Plasma con 15 u. de PLASMA.
+2026-06-19 23:49:42 D008 ha extraído 25 u. de PLASMA en Ignis.
+2026-06-19 23:49:42 D008 viaja al Depósito de Plasma con 25 u. de PLASMA.
+2026-06-19 23:49:42 D009 ha extraído 26 u. de MINERAL en Ferrum.
+2026-06-19 23:49:42 D009 viaja al Depósito de Mineral con 26 u. de MINERAL.
+2026-06-19 23:49:42 D004 ha depositado 13 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:49:42 D004 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:43 D002 ha extraído 21 u. de PLASMA en Ignis.
+2026-06-19 23:49:43 D002 viaja al Depósito de Plasma con 21 u. de PLASMA.
+2026-06-19 23:49:43 D010 ha extraído 11 u. de CRISTAL en Cryon.
+2026-06-19 23:49:43 D010 viaja al Depósito de Cristal con 11 u. de CRISTAL.
+2026-06-19 23:49:44 D006 ha depositado 15 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:49:44 D006 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:44 D003 ha extraído 19 u. de CRISTAL en Velora.
+2026-06-19 23:49:44 D003 viaja al Depósito de Cristal con 19 u. de CRISTAL.
+2026-06-19 23:49:44 D008 ha depositado 25 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:49:44 D008 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:44 D007 ha extraído 16 u. de PLASMA en Ignis.
+2026-06-19 23:49:44 D007 viaja al Depósito de Plasma con 16 u. de PLASMA.
+2026-06-19 23:49:44 P001 se dirige a patrullar Depósito de Plasma.
+2026-06-19 23:49:45 D002 ha depositado 21 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:49:45 D002 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:45 D010 ha depositado 11 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:49:45 D010 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:45 D009 ha depositado 26 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:49:45 D009 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:45 D003 ha depositado 19 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:49:45 D003 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:45 D001 ha extraído 25 u. de MINERAL en Drax.
+2026-06-19 23:49:45 D001 viaja al Depósito de Mineral con 25 u. de MINERAL.
+2026-06-19 23:49:45 D004 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:49:45 D005 ha extraído 18 u. de MINERAL en Drax.
+2026-06-19 23:49:45 D005 viaja al Depósito de Mineral con 18 u. de MINERAL.
+2026-06-19 23:49:46 D007 ha depositado 16 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:49:46 D007 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:47 D005 ha depositado 18 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:49:47 D005 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:47 D006 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:49:47 D001 ha depositado 25 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:49:47 D001 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:47 P002 se dirige a patrullar Depósito de Mineral.
+2026-06-19 23:49:47 D010 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:49:47 D008 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:49:48 D009 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:49:48 D003 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:49:48 D002 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:49:48 D007 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:49:49 P001 se dirige a patrullar Cryon.
+2026-06-19 23:49:49 D001 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:49:50 D005 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:49:51 D010 ha extraído 24 u. de PLASMA en Ignis.
+2026-06-19 23:49:51 D010 viaja al Depósito de Plasma con 24 u. de PLASMA.
+2026-06-19 23:49:52 D002 ha extraído 30 u. de PLASMA en Ignis.
+2026-06-19 23:49:52 D002 viaja al Depósito de Plasma con 30 u. de PLASMA.
+2026-06-19 23:49:52 D004 ha extraído 15 u. de PLASMA en Ignis.
+2026-06-19 23:49:52 D004 viaja al Depósito de Plasma con 15 u. de PLASMA.
+2026-06-19 23:49:52 GeneradorSaqueadores: nuevo saqueador creado. Total activos: 1
+2026-06-19 23:49:52 S001 aparece en la galaxia.
+2026-06-19 23:49:52 D003 ha extraído 26 u. de MINERAL en Drax.
+2026-06-19 23:49:52 D003 viaja al Depósito de Mineral con 26 u. de MINERAL.
+2026-06-19 23:49:53 D008 ha extraído 20 u. de MINERAL en Drax.
+2026-06-19 23:49:53 D008 viaja al Depósito de Mineral con 20 u. de MINERAL.
+2026-06-19 23:49:53 P002 se dirige a patrullar Velora.
+2026-06-19 23:49:53 D003 ha depositado 26 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:49:53 D003 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:54 D006 ha extraído 29 u. de MINERAL en Drax.
+2026-06-19 23:49:54 D006 viaja al Depósito de Mineral con 29 u. de MINERAL.
+2026-06-19 23:49:54 P001 se dirige a patrullar Velora.
+2026-06-19 23:49:54 D007 ha extraído 11 u. de PLASMA en Ignis.
+2026-06-19 23:49:54 D007 viaja al Depósito de Plasma con 11 u. de PLASMA.
+2026-06-19 23:49:54 D009 ha extraído 23 u. de CRISTAL en Velora.
+2026-06-19 23:49:54 D009 viaja al Depósito de Cristal con 23 u. de CRISTAL.
+2026-06-19 23:49:54 D008 ha depositado 20 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:49:54 D008 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:56 D003 viaja al planeta Ferrum a extraer MINERAL.
+2026-06-19 23:49:56 D009 ha depositado 23 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:49:56 D009 espera en el Centro de Coordinación Federal.
+2026-06-19 23:49:57 D008 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:49:57 D005 ha extraído 14 u. de PLASMA en Ignis.
+2026-06-19 23:49:57 D005 viaja al Depósito de Plasma con 14 u. de PLASMA.
+2026-06-19 23:49:58 D001 ha extraído 12 u. de PLASMA en Ignis.
+2026-06-19 23:49:58 D001 viaja al Depósito de Plasma con 12 u. de PLASMA.
+2026-06-19 23:49:58 S001 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:49:59 P002 se dirige a patrullar Ignis.
+2026-06-19 23:50:00 D009 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:50:00 P001 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:50:01 D008 ha extraído 13 u. de CRISTAL en Cryon.
+2026-06-19 23:50:01 D008 viaja al Depósito de Cristal con 13 u. de CRISTAL.
+2026-06-19 23:50:02 D003 ha extraído 26 u. de MINERAL en Ferrum.
+2026-06-19 23:50:02 D003 viaja al Depósito de Mineral con 26 u. de MINERAL.
+2026-06-19 23:50:03 D008 ha depositado 13 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:50:03 D008 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:05 P001 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:50:05 P002 se dirige a patrullar Drax.
+2026-06-19 23:50:06 GeneradorSaqueadores: nuevo saqueador creado. Total activos: 2
+2026-06-19 23:50:06 S002 aparece en la galaxia.
+2026-06-19 23:50:06 D010 ha depositado 24 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:50:06 D010 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:06 D002 ha depositado 30 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:50:06 D002 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:06 S001 ha saqueado 41 u. de Depósito de Plasma.
+2026-06-19 23:50:07 D008 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:50:07 D009 ha extraído 22 u. de PLASMA en Ignis.
+2026-06-19 23:50:07 D009 viaja al Depósito de Plasma con 22 u. de PLASMA.
+2026-06-19 23:50:09 D002 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:50:09 D010 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:50:10 S002 se dirige a atacar Depósito de Mineral.
+2026-06-19 23:50:10 D008 ha extraído 12 u. de PLASMA en Ignis.
+2026-06-19 23:50:10 D008 viaja al Depósito de Plasma con 12 u. de PLASMA.
+2026-06-19 23:50:11 P001 se dirige a patrullar Velora.
+2026-06-19 23:50:12 P002 se dirige a patrullar Depósito de Plasma.
+2026-06-19 23:50:14 D002 ha sido expulsado de Drax y va a la Zona de Recuperación.
+2026-06-19 23:50:16 D010 ha sido expulsado de Velora y va a la Zona de Recuperación.
+2026-06-19 23:50:17 GeneradorSaqueadores: nuevo saqueador creado. Total activos: 3
+2026-06-19 23:50:17 S003 aparece en la galaxia.
+2026-06-19 23:50:18 D006 ha depositado 29 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:50:18 D006 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:18 D003 ha depositado 26 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:50:18 D003 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:18 S002 ha saqueado 58 u. de Depósito de Mineral.
+2026-06-19 23:50:19 P001 se dirige a patrullar Velora.
+2026-06-19 23:50:21 D006 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:50:21 S001 se dirige a atacar Ferrum.
+2026-06-19 23:50:22 D003 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:50:22 D002 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:23 P003 comienza su actividad como patrulla federal.
+2026-06-19 23:50:23 P003 prepara sus sistemas en el Hangar de Patrullas.
+2026-06-19 23:50:23 GeneradorPatrullas: refuerzo creado. Saqueadores activos: 3 | Patrullas activas: 3
+2026-06-19 23:50:23 S003 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:50:24 P001 se dirige a patrullar Ignis.
+2026-06-19 23:50:24 D006 ha sido expulsado de Ignis y va a la Zona de Recuperación.
+2026-06-19 23:50:25 D002 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:50:27 D010 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:28 P003 se dirige a patrullar Ignis.
+2026-06-19 23:50:28 D003 ha sido expulsado de Velora y va a la Zona de Recuperación.
+2026-06-19 23:50:30 S001 ha saqueado 0 u. de Ferrum.
+2026-06-19 23:50:30 GeneradorSaqueadores: nuevo saqueador creado. Total activos: 4
+2026-06-19 23:50:30 S004 aparece en la galaxia.
+2026-06-19 23:50:31 D002 ha extraído 22 u. de PLASMA en Ignis.
+2026-06-19 23:50:31 D002 viaja al Depósito de Plasma con 22 u. de PLASMA.
+2026-06-19 23:50:31 D005 ha depositado 14 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:50:31 D004 ha depositado 15 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:50:31 D004 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:31 D007 ha depositado 11 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:50:31 D007 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:31 S003 ha saqueado 45 u. de Depósito de Plasma.
+2026-06-19 23:50:31 D005 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:31 GeneradorPatrullas: refuerzo creado. Saqueadores activos: 4 | Patrullas activas: 4
+2026-06-19 23:50:31 P004 comienza su actividad como patrulla federal.
+2026-06-19 23:50:31 P004 prepara sus sistemas en el Hangar de Patrullas.
+2026-06-19 23:50:31 P001 se dirige a patrullar Depósito de Plasma.
+2026-06-19 23:50:31 D010 viaja al planeta Ferrum a extraer MINERAL.
+2026-06-19 23:50:33 S002 se dirige a atacar Drax.
+2026-06-19 23:50:34 D005 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:50:34 D007 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:50:35 D004 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:50:35 D010 ha extraído 26 u. de MINERAL en Ferrum.
+2026-06-19 23:50:35 D010 viaja al Depósito de Mineral con 26 u. de MINERAL.
+2026-06-19 23:50:36 P003 se dirige a patrullar Cryon.
+2026-06-19 23:50:36 S004 se dirige a atacar Cryon.
+2026-06-19 23:50:36 P004 se dirige a patrullar Drax.
+2026-06-19 23:50:37 S002 combate con P002 en Drax.
+2026-06-19 23:50:37 S002 es derrotado por P002. Penalización de 20 s en la Base.
+2026-06-19 23:50:37 D006 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:38 D004 ha sido expulsado de Drax y va a la Zona de Recuperación.
+2026-06-19 23:50:39 GeneradorPatrullas: refuerzo creado. Saqueadores activos: 4 | Patrullas activas: 5
+2026-06-19 23:50:39 P005 comienza su actividad como patrulla federal.
+2026-06-19 23:50:39 P005 prepara sus sistemas en el Hangar de Patrullas.
+2026-06-19 23:50:39 D007 ha sido expulsado de Velora y va a la Zona de Recuperación.
+2026-06-19 23:50:40 D003 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:40 S004 combate con P003 en Cryon.
+2026-06-19 23:50:40 S004 es derrotado por P003. Penalización de 20 s en la Base.
+2026-06-19 23:50:41 D005 ha sido expulsado de Velora y va a la Zona de Recuperación.
+2026-06-19 23:50:41 GeneradorSaqueadores: nuevo saqueador creado. Total activos: 5
+2026-06-19 23:50:41 S005 aparece en la galaxia.
+2026-06-19 23:50:41 D006 viaja al planeta Ferrum a extraer MINERAL.
+2026-06-19 23:50:41 P004 se dirige a patrullar Ferrum.
+2026-06-19 23:50:42 D003 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:50:42 P003 se dirige a patrullar Depósito de Mineral.
+2026-06-19 23:50:43 P005 se dirige a patrullar Velora.
+2026-06-19 23:50:44 S005 se dirige a atacar Depósito de Cristal.
+2026-06-19 23:50:44 S001 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:50:45 S003 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:50:46 D004 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:46 D005 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:46 D006 ha extraído 16 u. de MINERAL en Ferrum.
+2026-06-19 23:50:46 D006 viaja al Depósito de Mineral con 16 u. de MINERAL.
+2026-06-19 23:50:47 P005 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:50:48 D004 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:50:48 S005 combate con P005 en Depósito de Cristal.
+2026-06-19 23:50:48 S005 vence a P005 en Depósito de Cristal.
+2026-06-19 23:50:48 P004 se dirige a patrullar Drax.
+2026-06-19 23:50:49 D003 ha extraído 14 u. de PLASMA en Ignis.
+2026-06-19 23:50:49 D003 viaja al Depósito de Plasma con 14 u. de PLASMA.
+2026-06-19 23:50:49 P003 se dirige a patrullar Cryon.
+2026-06-19 23:50:50 D007 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:50 D005 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:50:51 D008 ha depositado 12 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:50:51 D008 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:51 D001 ha depositado 12 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:50:51 D001 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:51 D009 ha depositado 22 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:50:51 S001 ha saqueado 43 u. de Depósito de Plasma.
+2026-06-19 23:50:51 D009 espera en el Centro de Coordinación Federal.
+2026-06-19 23:50:51 S003 combate con P001 en Depósito de Plasma.
+2026-06-19 23:50:51 S003 es derrotado por P001. Penalización de 20 s en la Base.
+2026-06-19 23:50:53 D009 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:50:53 D007 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:50:53 S005 ha saqueado 53 u. de Depósito de Cristal.
+2026-06-19 23:50:54 D005 ha extraído 16 u. de MINERAL en Drax.
+2026-06-19 23:50:54 D005 viaja al Depósito de Mineral con 16 u. de MINERAL.
+2026-06-19 23:50:54 P004 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:50:54 P003 se dirige a patrullar Ignis.
+2026-06-19 23:50:55 D001 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:50:55 D008 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:50:55 D004 ha extraído 24 u. de PLASMA en Ignis.
+2026-06-19 23:50:55 D004 viaja al Depósito de Plasma con 24 u. de PLASMA.
+2026-06-19 23:50:55 P005 se dirige a patrullar Ignis.
+2026-06-19 23:50:56 P001 se dirige a patrullar Drax.
+2026-06-19 23:50:57 P002 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:50:58 D001 ha sido expulsado de Ignis y va a la Zona de Recuperación.
+2026-06-19 23:50:58 D007 ha extraído 19 u. de PLASMA en Ignis.
+2026-06-19 23:50:58 D007 viaja al Depósito de Plasma con 19 u. de PLASMA.
+2026-06-19 23:50:59 D008 ha sido expulsado de Drax y va a la Zona de Recuperación.
+2026-06-19 23:51:00 D009 ha sido expulsado de Drax y va a la Zona de Recuperación.
+2026-06-19 23:51:00 P005 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:51:00 P003 se dirige a patrullar Depósito de Mineral.
+2026-06-19 23:51:00 GeneradorSaqueadores: nuevo saqueador creado. Total activos: 6
+2026-06-19 23:51:00 S006 aparece en la galaxia.
+2026-06-19 23:51:01 P004 se dirige a patrullar Depósito de Plasma.
+2026-06-19 23:51:01 S002 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:51:03 P001 se dirige a patrullar Depósito de Mineral.
+2026-06-19 23:51:04 S004 se dirige a atacar Depósito de Cristal.
+2026-06-19 23:51:04 S006 se dirige a atacar Depósito de Cristal.
+2026-06-19 23:51:05 P002 se dirige a patrullar Ignis.
+2026-06-19 23:51:05 D009 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:06 S001 se dirige a atacar Depósito de Cristal.
+2026-06-19 23:51:07 D001 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:07 P005 se dirige a patrullar Cryon.
+2026-06-19 23:51:07 S004 combate con P004 en Depósito de Cristal.
+2026-06-19 23:51:07 S004 vence a P004 en Depósito de Cristal.
+2026-06-19 23:51:07 D009 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:51:08 S005 se dirige a atacar Depósito de Mineral.
+2026-06-19 23:51:09 D002 ha depositado 22 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:51:09 S002 ha saqueado 44 u. de Depósito de Plasma.
+2026-06-19 23:51:09 D004 ha depositado 24 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:51:09 D002 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:09 D004 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:09 D001 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:51:10 S004 ha saqueado 37 u. de Depósito de Cristal.
+2026-06-19 23:51:12 P002 se dirige a patrullar Depósito de Mineral.
+2026-06-19 23:51:13 D004 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:51:13 D002 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:51:13 S006 ha saqueado 26 u. de Depósito de Cristal.
+2026-06-19 23:51:13 D001 ha extraído 10 u. de CRISTAL en Velora.
+2026-06-19 23:51:13 D001 viaja al Depósito de Cristal con 10 u. de CRISTAL.
+2026-06-19 23:51:14 D008 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:14 D009 ha extraído 24 u. de PLASMA en Ignis.
+2026-06-19 23:51:14 D009 viaja al Depósito de Plasma con 24 u. de PLASMA.
+2026-06-19 23:51:14 P004 se dirige a patrullar Ferrum.
+2026-06-19 23:51:14 D010 ha depositado 26 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:51:14 D010 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:14 D006 ha depositado 16 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:51:14 D005 ha depositado 16 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:51:14 S005 ha saqueado 57 u. de Depósito de Mineral.
+2026-06-19 23:51:14 D006 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:14 D005 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:15 P005 se dirige a patrullar Cryon.
+2026-06-19 23:51:16 D001 ha depositado 10 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:51:16 D001 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:16 S001 ha saqueado 21 u. de Depósito de Cristal.
+2026-06-19 23:51:16 S003 se dirige a atacar Depósito de Mineral.
+2026-06-19 23:51:16 GeneradorSaqueadores: nuevo saqueador creado. Total activos: 7
+2026-06-19 23:51:16 S007 aparece en la galaxia.
+2026-06-19 23:51:17 D008 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:51:17 D005 viaja al planeta Ferrum a extraer MINERAL.
+2026-06-19 23:51:17 D010 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:51:18 D004 ha sido expulsado de Ignis y va a la Zona de Recuperación.
+2026-06-19 23:51:18 D006 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:51:18 D002 ha sido expulsado de Cryon y va a la Zona de Recuperación.
+2026-06-19 23:51:19 D001 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:51:19 P001 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:51:19 S003 combate con P002 en Depósito de Mineral.
+2026-06-19 23:51:19 S003 vence a P002 en Depósito de Mineral.
+2026-06-19 23:51:19 S007 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:51:20 P004 se dirige a patrullar Depósito de Mineral.
+2026-06-19 23:51:20 P005 se dirige a patrullar Ferrum.
+2026-06-19 23:51:21 P003 inicia combate con S003 en Depósito de Mineral.
+2026-06-19 23:51:21 P003 derrota a S003 en Depósito de Mineral. Delegados de la zona expulsados.
+2026-06-19 23:51:21 P003 se dirige a patrullar Cryon.
+2026-06-19 23:51:22 P002 se dirige a patrullar Depósito de Plasma.
+2026-06-19 23:51:23 D010 ha sido expulsado de Velora y va a la Zona de Recuperación.
+2026-06-19 23:51:23 P001 se dirige a patrullar Cryon.
+2026-06-19 23:51:23 S003 ha saqueado 57 u. de Depósito de Mineral.
+2026-06-19 23:51:23 D008 ha extraído 15 u. de CRISTAL en Cryon.
+2026-06-19 23:51:23 D008 viaja al Depósito de Cristal con 15 u. de CRISTAL.
+2026-06-19 23:51:24 D005 ha sido expulsado de Ferrum y va a la Zona de Recuperación.
+2026-06-19 23:51:24 S004 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:51:24 P004 se dirige a patrullar Ignis.
+2026-06-19 23:51:25 D006 ha sido expulsado de Drax y va a la Zona de Recuperación.
+2026-06-19 23:51:25 S002 se dirige a atacar Velora.
+2026-06-19 23:51:25 P005 se dirige a patrullar Cryon.
+2026-06-19 23:51:25 D001 ha extraído 30 u. de CRISTAL en Velora.
+2026-06-19 23:51:25 D001 viaja al Depósito de Cristal con 30 u. de CRISTAL.
+2026-06-19 23:51:25 D008 ha depositado 15 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:51:25 D008 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:26 D007 ha depositado 19 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:51:26 D007 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:26 D003 ha depositado 14 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:51:26 S007 ha saqueado 45 u. de Depósito de Plasma.
+2026-06-19 23:51:26 D003 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:26 GeneradorSaqueadores: nuevo saqueador creado. Total activos: 8
+2026-06-19 23:51:26 S008 aparece en la galaxia.
+2026-06-19 23:51:27 S006 se dirige a atacar Depósito de Cristal.
+2026-06-19 23:51:27 P003 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:51:27 P001 se dirige a patrullar Ferrum.
+2026-06-19 23:51:28 S005 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:51:28 D001 ha depositado 30 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:51:28 D001 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:28 D003 viaja al planeta Ferrum a extraer MINERAL.
+2026-06-19 23:51:28 D007 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:51:28 S004 combate con P002 en Depósito de Plasma.
+2026-06-19 23:51:28 S004 es derrotado por P002. Penalización de 20 s en la Base.
+2026-06-19 23:51:29 D008 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:51:29 P005 se dirige a patrullar Drax.
+2026-06-19 23:51:30 S002 ha saqueado 0 u. de Velora.
+2026-06-19 23:51:30 S006 combate con P003 en Depósito de Cristal.
+2026-06-19 23:51:30 S006 es derrotado por P003. Penalización de 20 s en la Base.
+2026-06-19 23:51:30 P004 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:51:31 S005 combate con P002 en Depósito de Plasma.
+2026-06-19 23:51:31 S005 vence a P002 en Depósito de Plasma.
+2026-06-19 23:51:31 S001 se dirige a atacar Velora.
+2026-06-19 23:51:31 S008 se dirige a atacar Ferrum.
+2026-06-19 23:51:31 D001 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:51:32 D002 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:32 P002 inicia combate con S005 en Depósito de Plasma.
+2026-06-19 23:51:32 P002 es derrotada por S005 en Depósito de Plasma. Va al Hangar a recuperarse.
+2026-06-19 23:51:32 P002 se recupera en el Hangar de Patrullas.
+2026-06-19 23:51:32 D004 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:33 D005 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:33 S008 combate con P001 en Ferrum.
+2026-06-19 23:51:33 S008 es derrotado por P001. Penalización de 20 s en la Base.
+2026-06-19 23:51:33 P003 se dirige a patrullar Ignis.
+2026-06-19 23:51:33 D007 ha sido expulsado de Ignis y va a la Zona de Recuperación.
+2026-06-19 23:51:33 P001 se dirige a patrullar Ignis.
+2026-06-19 23:51:33 D008 ha extraído 22 u. de PLASMA en Ignis.
+2026-06-19 23:51:33 D008 viaja al Depósito de Plasma con 22 u. de PLASMA.
+2026-06-19 23:51:33 D009 ha depositado 24 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:51:33 S005 ha saqueado 41 u. de Depósito de Plasma.
+2026-06-19 23:51:33 D009 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:35 D003 ha sido expulsado de Ferrum y va a la Zona de Recuperación.
+2026-06-19 23:51:35 D002 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:51:35 D004 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:51:35 D005 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:51:35 P005 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:51:36 D008 ha depositado 22 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:51:36 D008 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:36 D006 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:36 D009 viaja al planeta Ferrum a extraer MINERAL.
+2026-06-19 23:51:36 D010 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:36 S001 ha saqueado 0 u. de Velora.
+2026-06-19 23:51:38 P004 se dirige a patrullar Velora.
+2026-06-19 23:51:38 S003 se dirige a atacar Velora.
+2026-06-19 23:51:38 D001 ha extraído 26 u. de CRISTAL en Cryon.
+2026-06-19 23:51:38 D001 viaja al Depósito de Cristal con 26 u. de CRISTAL.
+2026-06-19 23:51:38 D010 viaja al planeta Ferrum a extraer MINERAL.
+2026-06-19 23:51:38 D008 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:51:39 D005 ha extraído 18 u. de CRISTAL en Cryon.
+2026-06-19 23:51:39 D005 viaja al Depósito de Cristal con 18 u. de CRISTAL.
+2026-06-19 23:51:39 D002 ha extraído 19 u. de CRISTAL en Velora.
+2026-06-19 23:51:39 D002 viaja al Depósito de Cristal con 19 u. de CRISTAL.
+2026-06-19 23:51:39 D006 viaja al planeta Ferrum a extraer MINERAL.
+2026-06-19 23:51:39 D004 ha extraído 11 u. de PLASMA en Ignis.
+2026-06-19 23:51:39 D004 viaja al Depósito de Plasma con 11 u. de PLASMA.
+2026-06-19 23:51:39 S007 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:51:40 GeneradorSaqueadores: nuevo saqueador creado. Total activos: 9
+2026-06-19 23:51:40 S009 aparece en la galaxia.
+2026-06-19 23:51:40 D001 ha depositado 26 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:51:40 D001 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:40 P001 se dirige a patrullar Ferrum.
+2026-06-19 23:51:40 P003 se dirige a patrullar Drax.
+2026-06-19 23:51:41 D005 ha depositado 18 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:51:41 D005 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:41 S003 combate con P004 en Velora.
+2026-06-19 23:51:41 S003 es derrotado por P004. Penalización de 20 s en la Base.
+2026-06-19 23:51:41 P005 se dirige a patrullar Drax.
+2026-06-19 23:51:41 D008 ha extraído 23 u. de MINERAL en Drax.
+2026-06-19 23:51:41 D008 viaja al Depósito de Mineral con 23 u. de MINERAL.
+2026-06-19 23:51:42 D003 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:42 P004 se dirige a patrullar Depósito de Mineral.
+2026-06-19 23:51:42 D002 ha depositado 19 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:51:42 D002 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:42 D001 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:51:43 D009 ha sido expulsado de Ferrum y va a la Zona de Recuperación.
+2026-06-19 23:51:43 S009 se dirige a atacar Ignis.
+2026-06-19 23:51:43 D010 ha extraído 27 u. de MINERAL en Ferrum.
+2026-06-19 23:51:43 D010 viaja al Depósito de Mineral con 27 u. de MINERAL.
+2026-06-19 23:51:43 D005 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:51:43 S002 se dirige a atacar Cryon.
+2026-06-19 23:51:44 P002 se dirige a patrullar Depósito de Plasma.
+2026-06-19 23:51:44 D008 ha depositado 23 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:51:44 D008 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:44 P003 se dirige a patrullar Depósito de Mineral.
+2026-06-19 23:51:45 D004 ha depositado 11 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:51:45 D004 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:45 S007 ha saqueado 42 u. de Depósito de Plasma.
+2026-06-19 23:51:45 D010 ha depositado 27 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:51:45 D010 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:45 D003 viaja al planeta Ferrum a extraer MINERAL.
+2026-06-19 23:51:46 D002 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:51:46 D006 ha extraído 30 u. de MINERAL en Ferrum.
+2026-06-19 23:51:46 D006 viaja al Depósito de Mineral con 30 u. de MINERAL.
+2026-06-19 23:51:46 D007 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:47 P004 se dirige a patrullar Ferrum.
+2026-06-19 23:51:47 D001 ha sido expulsado de Cryon y va a la Zona de Recuperación.
+2026-06-19 23:51:47 D008 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:51:48 S005 se dirige a atacar Depósito de Cristal.
+2026-06-19 23:51:48 D009 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:48 P002 se dirige a patrullar Ignis.
+2026-06-19 23:51:48 D004 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:51:48 D010 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:51:49 P005 se dirige a patrullar Depósito de Mineral.
+2026-06-19 23:51:49 P001 se dirige a patrullar Ignis.
+2026-06-19 23:51:49 D007 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:51:49 D005 ha sido expulsado de Ignis y va a la Zona de Recuperación.
+2026-06-19 23:51:50 S009 ha saqueado 0 u. de Ignis.
+2026-06-19 23:51:50 D003 ha extraído 14 u. de MINERAL en Ferrum.
+2026-06-19 23:51:50 D003 viaja al Depósito de Mineral con 14 u. de MINERAL.
+2026-06-19 23:51:50 S002 ha saqueado 0 u. de Cryon.
+2026-06-19 23:51:50 P003 se dirige a patrullar Cryon.
+2026-06-19 23:51:51 D002 ha sido expulsado de Ignis y va a la Zona de Recuperación.
+2026-06-19 23:51:52 D009 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:51:52 S001 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:51:52 P004 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:51:52 S005 combate con P004 en Depósito de Cristal.
+2026-06-19 23:51:52 S005 vence a P004 en Depósito de Cristal.
+2026-06-19 23:51:52 D003 ha depositado 14 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:51:52 D003 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:53 D010 ha extraído 27 u. de MINERAL en Drax.
+2026-06-19 23:51:53 D010 viaja al Depósito de Mineral con 27 u. de MINERAL.
+2026-06-19 23:51:54 S004 se dirige a atacar Depósito de Mineral.
+2026-06-19 23:51:54 P002 se dirige a patrullar Ignis.
+2026-06-19 23:51:54 D008 ha extraído 28 u. de CRISTAL en Cryon.
+2026-06-19 23:51:54 D008 viaja al Depósito de Cristal con 28 u. de CRISTAL.
+2026-06-19 23:51:54 D004 ha sido expulsado de Drax y va a la Zona de Recuperación.
+2026-06-19 23:51:55 P005 se dirige a patrullar Velora.
+2026-06-19 23:51:55 D003 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:51:55 D001 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:56 S006 se dirige a atacar Ignis.
+2026-06-19 23:51:56 S005 ha saqueado 48 u. de Depósito de Cristal.
+2026-06-19 23:51:56 S008 se dirige a atacar Velora.
+2026-06-19 23:51:56 S001 ha saqueado 33 u. de Depósito de Plasma.
+2026-06-19 23:51:56 P001 se dirige a patrullar Drax.
+2026-06-19 23:51:56 P003 se dirige a patrullar Drax.
+2026-06-19 23:51:57 D005 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:57 D007 ha extraído 14 u. de PLASMA en Ignis.
+2026-06-19 23:51:57 D007 viaja al Depósito de Plasma con 14 u. de PLASMA.
+2026-06-19 23:51:57 D008 ha depositado 28 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:51:57 D008 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:58 D009 ha extraído 23 u. de CRISTAL en Velora.
+2026-06-19 23:51:58 D009 viaja al Depósito de Cristal con 23 u. de CRISTAL.
+2026-06-19 23:51:58 S008 combate con P005 en Velora.
+2026-06-19 23:51:58 S008 es derrotado por P005. Penalización de 20 s en la Base.
+2026-06-19 23:51:58 D001 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:51:58 S007 se dirige a atacar Velora.
+2026-06-19 23:51:59 GeneradorSaqueadores: nuevo saqueador creado. Total activos: 10
+2026-06-19 23:51:59 S010 aparece en la galaxia.
+2026-06-19 23:51:59 S006 combate con P002 en Ignis.
+2026-06-19 23:51:59 S006 vence a P002 en Ignis.
+2026-06-19 23:51:59 D009 ha depositado 23 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:51:59 D009 espera en el Centro de Coordinación Federal.
+2026-06-19 23:51:59 D005 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:51:59 P005 se dirige a patrullar Velora.
+2026-06-19 23:51:59 P004 se dirige a patrullar Depósito de Cristal.
+2026-06-19 23:51:59 D007 ha depositado 14 u. de PLASMA en Depósito de Plasma.
+2026-06-19 23:51:59 D007 espera en el Centro de Coordinación Federal.
+2026-06-19 23:52:00 D002 espera en el Centro de Coordinación Federal.
+2026-06-19 23:52:00 P001 se dirige a patrullar Ferrum.
+2026-06-19 23:52:00 D006 ha depositado 30 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:52:00 D006 espera en el Centro de Coordinación Federal.
+2026-06-19 23:52:00 D010 ha depositado 27 u. de MINERAL en Depósito de Mineral.
+2026-06-19 23:52:00 D010 espera en el Centro de Coordinación Federal.
+2026-06-19 23:52:00 S004 ha saqueado 60 u. de Depósito de Mineral.
+2026-06-19 23:52:01 D008 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:52:01 P003 se dirige a patrullar Depósito de Plasma.
+2026-06-19 23:52:02 D007 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:52:02 D003 ha extraído 25 u. de CRISTAL en Cryon.
+2026-06-19 23:52:02 P002 inicia combate con S006 en Ignis.
+2026-06-19 23:52:02 D003 viaja al Depósito de Cristal con 25 u. de CRISTAL.
+2026-06-19 23:52:02 P002 derrota a S006 en Ignis. Delegados de la zona expulsados.
+2026-06-19 23:52:02 P002 se dirige a patrullar Ignis.
+2026-06-19 23:52:02 D009 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:52:02 D002 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:52:02 S006 ha saqueado 0 u. de Ignis.
+2026-06-19 23:52:02 D001 ha sido expulsado de Ignis y va a la Zona de Recuperación.
+2026-06-19 23:52:03 D005 ha sido expulsado de Ignis y va a la Zona de Recuperación.
+2026-06-19 23:52:03 D004 espera en el Centro de Coordinación Federal.
+2026-06-19 23:52:03 S007 combate con P005 en Velora.
+2026-06-19 23:52:03 S007 es derrotado por P005. Penalización de 20 s en la Base.
+2026-06-19 23:52:03 D006 viaja al planeta Drax a extraer MINERAL.
+2026-06-19 23:52:03 D003 ha depositado 25 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:52:03 D003 espera en el Centro de Coordinación Federal.
+2026-06-19 23:52:03 S002 se dirige a atacar Depósito de Mineral.
+2026-06-19 23:52:04 D010 viaja al planeta Velora a extraer CRISTAL.
+2026-06-19 23:52:04 S009 se dirige a atacar Depósito de Mineral.
+2026-06-19 23:52:05 S010 se dirige a atacar Depósito de Plasma.
+2026-06-19 23:52:05 P004 se dirige a patrullar Ignis.
+2026-06-19 23:52:06 D004 viaja al planeta Cryon a extraer CRISTAL.
+2026-06-19 23:52:06 D008 ha sido expulsado de Ignis y va a la Zona de Recuperación.
+2026-06-19 23:52:06 S003 se dirige a atacar Depósito de Mineral.
+2026-06-19 23:52:07 P003 se dirige a patrullar Drax.
+2026-06-19 23:52:07 D003 viaja al planeta Ignis a extraer PLASMA.
+2026-06-19 23:52:07 P005 se dirige a patrullar Velora.
+2026-06-19 23:52:07 D006 ha sido expulsado de Drax y va a la Zona de Recuperación.
+2026-06-19 23:52:07 D007 ha extraído 25 u. de CRISTAL en Cryon.
+2026-06-19 23:52:07 D007 viaja al Depósito de Cristal con 25 u. de CRISTAL.
+2026-06-19 23:52:07 P001 se dirige a patrullar Ignis.
+2026-06-19 23:52:07 D002 ha extraído 12 u. de CRISTAL en Velora.
+2026-06-19 23:52:07 D002 viaja al Depósito de Cristal con 12 u. de CRISTAL.
+2026-06-19 23:52:08 D010 ha sido expulsado de Velora y va a la Zona de Recuperación.
+2026-06-19 23:52:08 S002 ha saqueado 59 u. de Depósito de Mineral.
+2026-06-19 23:52:08 D009 ha extraído 14 u. de CRISTAL en Velora.
+2026-06-19 23:52:08 D009 viaja al Depósito de Cristal con 14 u. de CRISTAL.
+2026-06-19 23:52:09 D007 ha depositado 25 u. de CRISTAL en Depósito de Cristal.
+2026-06-19 23:52:09 D007 espera en el Centro de Coordinación Federal.

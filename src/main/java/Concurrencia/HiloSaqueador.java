@@ -96,6 +96,8 @@ public class HiloSaqueador extends Thread {
                 // -----------------------------------------------
                 // FASE 4: Intentar el ataque
                 // -----------------------------------------------
+                objetivo.setBajoAtaque(true);
+                
                 sincSaqueadores.iniciarAtaque(objetivo);
                 saqueador.setFaseActual(Saqueador.FaseAtaque.SAQUEANDO);
                 saqueador.setEstado("Atacando " + objetivo.getNombre());
@@ -140,6 +142,7 @@ public class HiloSaqueador extends Thread {
 
                 } finally {
                     sincSaqueadores.finalizarAtaque(objetivo);
+                    objetivo.setBajoAtaque(false);
                 }
 
                 // -----------------------------------------------

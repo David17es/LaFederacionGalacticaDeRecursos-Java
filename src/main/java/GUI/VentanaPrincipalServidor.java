@@ -68,10 +68,13 @@ public class VentanaPrincipalServidor extends JFrame {
         pestanas.setFont(new Font(Font.SANS_SERIF, Font.PLAIN, 12));
 
         JSplitPane split = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, mapa, pestanas);
-        split.setDividerLocation(480);
-        split.setResizeWeight(0.45);
-        split.setDividerSize(5);
+        split.setDividerLocation(0.55); //55% de espacio para el mapa
+        split.setResizeWeight(0.55); //al redimensionar pestaña, crece en la misma proporcion
+        split.setDividerSize(6);
         split.setBorder(new EmptyBorder(4, 4, 4, 4));
+        
+        setSize(1280, 780);
+        setMinimumSize(new Dimension(900, 620));
 
         add(split, BorderLayout.CENTER);
 

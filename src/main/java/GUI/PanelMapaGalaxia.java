@@ -46,7 +46,7 @@ public class PanelMapaGalaxia extends JPanel {
     public PanelMapaGalaxia() {
         this.estado = EstadoGalaxia.getInstancia();
         setBackground(COLOR_FONDO);
-        setPreferredSize(new Dimension(480, 360));
+        setPreferredSize(new Dimension(600, 480));
         setToolTipText("Mapa de la galaxia");
     }
 
@@ -113,14 +113,14 @@ public class PanelMapaGalaxia extends JPanel {
             int radio = (int)(pos[2] * Math.min(w, h));
 
             Color colorZona = colorDeZona(zona);
-            int actores = zona.getOcupacionActual();
+            int actores = contarActoresEnZona(zona);
             int capacidad = zona.getCapacidadMaxima();
 
-            dibujarNodo(g2, cx, cy, radio, colorZona, zona.getNombre(), actores, capacidad);
+            dibujarNodo(g2, cx, cy, radio, colorZona, zona.getNombre(), actores, capacidad, zona);
         }
     }
 
-    private void dibujarNodo(Graphics2D g2, int cx, int cy, int radio, Color color, String nombre, int actores, int capacidad) {
+    private void dibujarNodo(Graphics2D g2, int cx, int cy, int radio, Color color, String nombre, int actores, int capacidad, Zona zona) {
         //Sombra
         g2.setColor(new Color(0, 0, 0, 80));
         g2.fillOval(cx - radio + 3, cy - radio + 3, radio * 2, radio * 2);
@@ -141,6 +141,12 @@ public class PanelMapaGalaxia extends JPanel {
             g2.setColor(COLOR_TEXTO_CUENTA);
             g2.setStroke(new BasicStroke(3f));
             g2.drawArc(cx - radio, cy - radio, radio * 2, radio * 2, 90, -(int)(fraccion * 360));
+        }
+        
+        //Muestra si hay un saqueo en esa zona actualmente
+        if (zona.isBajoAtaque()) {
+            g2.setColor(new Color(255, 60, 60, 100));
+            g2.fillOval(cx - radio - 6, cy - radio - 6, (radio + 6) * 2, (radio + 6) * 2);
         }
 
         //Nombre de la zona
@@ -211,5 +217,19 @@ public class PanelMapaGalaxia extends JPanel {
             nombre.substring(0, espacio),
             nombre.substring(espacio + 1)
         };
+    }
+    
+    private int contarActoresEnZona(Zona zona) {
+        int cuenta = 0;
+        for (DelegadoComercial d : estado.getDelegados()) {
+            if (zona.equals(d.getZonaActual())) cuenta++;
+        }
+        for (PatrullaFederal p : estado.getPatrullas()) {
+            if (zona.equals(p.getZonaActual())) cuenta++;
+        }
+        for (Saqueador s : estado.getSaqueadores()) {
+            if (zona.equals(s.getZonaActual())) cuenta++;
+        }
+        return cuenta;
     }
 }
